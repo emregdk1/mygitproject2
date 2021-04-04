@@ -12,6 +12,9 @@ public class MyGitClass {
 		System.out.println("kazimin kodu");
 		System.out.println("kazimin kodu");
 		
+		
+		System.out.println("UZAK SUNUCUUUU");
+		
 
 	}
 
