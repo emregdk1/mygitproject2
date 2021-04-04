@@ -17,6 +17,8 @@ public class MyGitClass {
 		
 		System.out.println("UZAK SUNUCUUUU");
 		System.out.println("belgaz");
+		System.out.println("FENERBAHCE");
+		
 		
 
 	}
