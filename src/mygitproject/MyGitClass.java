@@ -7,6 +7,7 @@ public class MyGitClass {
 		System.out.println("Version 02");
 		System.out.println("commit 3");
 		System.out.println("commit 4");
+		System.out.println("uzak sunucudaki kodum");
 		
 
 	}
