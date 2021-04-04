@@ -10,6 +10,7 @@ public class MyGitClass {
 		System.out.println("uzak sunucudaki kodum");
 		System.out.println("git pull");
 		System.out.println("kazimin kodu");
+		System.out.println("kazimin kodu");
 		
 
 	}
