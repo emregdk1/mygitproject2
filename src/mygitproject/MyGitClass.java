@@ -19,9 +19,7 @@ public class MyGitClass {
 		System.out.println("belgaz");
 		System.out.println("FENERBAHCE");
 
-		System.out.println("EMRE");
-
-		System.out.println("EMre branc'inde yazdigim kodlar");
+		
 
 		
 		
